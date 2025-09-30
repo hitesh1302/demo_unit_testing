@@ -1,7 +1,7 @@
 const {expect} = require('chai');
 const Cart = require('../pages/cart');
 
-describe('Shopping Cart', function(){
+describe('Shopping Cart Feature', function(){
     let cart;
 
     beforeEach(function(){
