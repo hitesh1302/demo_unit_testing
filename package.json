@@ -1,0 +1,16 @@
+{
+  "name": "demo-unittesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/testcases/*.test.js\" --timeout 10000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^6.2.0",
+    "mocha": "^11.7.2"
+  }
+}
